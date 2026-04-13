@@ -1,10 +1,10 @@
 ## Hi there 👋
 
-🙋 - Me chamo Pedro Carmo, tenho 18 anos e atualmente estou estudando programação para ser um programador FullStack
+🙋 - Me chamo Pedro Carmo, tenho 19 anos e atualmente estou cursando o ensino superior em Engenharia de Software no 3° semestre.
 <br>
-💻 - Atualmente trabalho como auxiliar administrativo e espero um dia estar bem sucedido e com uma carreira consolidada no meio da programação
+💻 - Atualmente trabalho como projetista e espero um dia estar na minha área de interesse e com uma carreira consolidada no mercado.
 <br>
-📚 - Pretendo começar minha faculdade ano que vem após terminar o ensino médio
+📚 - Pretendo iniciar o curso de inglês a partir do próximo semestre.
 <br>
 ## ESTOU APRENDENDO A LINGUAGEM:
 - HTML <br> <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
