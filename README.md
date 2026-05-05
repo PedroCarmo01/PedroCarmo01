@@ -38,7 +38,7 @@ HTML5 | CSS3 | JavaScript | Python | Java | MySQL | SQL Server | Power BI | Exce
 
 ---
 
-### ⚙️ Ferramentas
+### ⚙️ DevOps
 
 <p>
   <img src="https://devicon-website.vercel.app/api/git/original.svg" height="40"/>
