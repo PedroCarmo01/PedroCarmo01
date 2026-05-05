@@ -1,5 +1,5 @@
 # Olá! Seja Bem Vindo(a), esse é meu GitHub 👋
-Me chamo Pedro Carmo, tenho 19 anos sou Analista de Dados Jr e Desenvolvedor Back End JR.
+Me chamo Pedro Carmo, tenho 20 anos sou Analista de Dados Jr e Desenvolvedor Back End JR.
 <br>
 ## Sobre mim
 💻 - Atualmente trabalho como projetista e espero um dia estar na minha área de interesse e construir uma carreira consolidada no mercado.
